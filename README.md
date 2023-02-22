@@ -1,4 +1,5 @@
-# Loan_Default_Supervised_Learning
+## Loan_Default_Supervised_Learning
+### LDA, QDA, Logistics Regression, Decision Trees, Random Forest, Boosting Models , Hyperparameter Tuning
 
 One of the leading financial institutions in India wants to leverage Machine Learning techniques to determine the client’s loan repayment abilities and take proactive steps to reduce the magnitude of exposure to default 
 
